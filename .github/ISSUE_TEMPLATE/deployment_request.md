@@ -1,3 +1,12 @@
+---
+name: Deployment Request
+about: Submit a request for deploying new changes or releases
+title: ''
+labels: 'deployment'
+assignees: ''
+
+---
+
 **Deployment Ticket Number (if applicable):**
 Provide the ticket number or ID associated with this deployment request.
 
